@@ -29,7 +29,7 @@
   "ComputeServers": {
     "K8s": {
       "FaaSType": "Kubernetes",
-      "Endpoint": "http://192.168.27.146:6443",
+      "Endpoint": "https://192.168.27.146:6443",
       "UseSecretStore": true
     }
   },
