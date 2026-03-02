@@ -30,7 +30,7 @@
     "K8s": {
       "FaaSType": "Kubernetes",
       "Endpoint": "https://192.168.27.146:6443",
-      "UseSecretStore": true
+      "UseSecretStore": false
     }
   },
   "DataStores": {
