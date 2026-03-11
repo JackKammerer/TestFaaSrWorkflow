@@ -42,8 +42,8 @@
     }
   },
   "ActionContainers": {
-    "start": "localhost:5000/faasr/kubernetes-r:latest",
-    "sum": "localhost:5000/faasr/kubernetes-r:latest"
+    "start": "faasr/slurm-r:latest",
+    "sum": "faasr/slurm-r:latest"
   },
   "FunctionInvoke": "start",
   "DefaultDataStore": "S3",
