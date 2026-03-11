@@ -29,7 +29,7 @@
   "ComputeServers": {
     "K8s": {
       "FaaSType": "Kubernetes",
-      "Endpoint": "https://67.58.53.148:6443",
+      "Endpoint": "https://67.58.53.148:443",
       "Namespace": "faasr",
       "UseSecretStore": false
     }
