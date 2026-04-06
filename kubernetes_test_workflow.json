@@ -45,8 +45,8 @@
     }
   },
   "ActionContainers": {
-    "start": "faasr/slurm-r:latest",
-    "sum": "faasr/slurm-r:latest"
+    "start": "ghcr.io/jackkammerer/test_kubernetes_r_faasr_test:1",
+    "sum": "ghcr.io/jackkammerer/test_kubernetes_r_faasr_test:1"
   },
   "FunctionInvoke": "start",
   "DefaultDataStore": "S3",
