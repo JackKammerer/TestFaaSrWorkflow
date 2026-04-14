@@ -36,8 +36,7 @@
       "MaxCPU": 500,
       "MaxMemory": 1000,
       "UseSecretStore": false,
-      "TimeLimit": 300,
-      "NumberOfRetries": 10
+      "TimeLimit": 300
     }
   },
   "DataStores": {
