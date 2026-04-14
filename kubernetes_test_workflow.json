@@ -37,7 +37,6 @@
       "MaxMemory": 1000,
       "UseSecretStore": false,
       "TimeLimit": 300,
-      "AdditionalTimeToLive": 60,
       "NumberOfRetries": 10
     }
   },
